@@ -1,4 +1,4 @@
-# k6 Performance Testing Portfolio
+# k6 Performance Testing Portf
 
 A collection of performance testing projects using [Grafana k6](https://grafana.com/docs/k6/latest/). This repository contains test scripts, HTML summary reports, and performance test documentation for different websites and APIs.
 
