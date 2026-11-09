@@ -1,1 +1,1 @@
-HTML summary report for k6 performance testing of Demo
+HTML summary report for k6 performance testing of DemoB
