@@ -1,1 +1,1 @@
-HTML summary report for k6 performance testing of DemoBlaz
+HTML summary report for k6 performance testing of DemoBlaze
